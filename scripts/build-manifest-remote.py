@@ -47,6 +47,7 @@ def main():
 
     day_rank = {}
     html_by_day = {}
+    cover_by_day = {}
     for p in paths:
         m = re.match(r'^(\d{4}-\d{2})/(\d{4}-\d{2}-\d{2})/ranking\.json$', p)
         if m:
@@ -54,6 +55,9 @@ def main():
         h = re.match(r'^(\d{4}-\d{2})/(\d{4}-\d{2}-\d{2})/(?:html/)?[^/]*-wechat\.html$', p)
         if h:
             html_by_day.setdefault(h.group(2), []).append(p)
+        c = re.match(r'^(\d{4}-\d{2})/(\d{4}-\d{2}-\d{2})/(?:covers/)?[^/]*-cover-[^/]*\.(?:jpg|jpeg|png)$', p)
+        if c:
+            cover_by_day.setdefault(c.group(2), []).append(p)
 
     dates = sorted(day_rank.keys(), reverse=True)
     if args.limit > 0:
@@ -77,6 +81,15 @@ def main():
             articles = []
         day_htmls = html_by_day.get(date, [])
 
+        day_covers = cover_by_day.get(date, [])
+
+        def _cover_rank(path):
+            n = path.rsplit("/", 1)[-1]
+            for i, kind in enumerate(["-cover-wide", "-cover-square", "-cover-banner"]):
+                if kind in n:
+                    return i
+            return 9
+
         arts = []
         for a in articles:
             if not isinstance(a, dict):
@@ -98,6 +111,22 @@ def main():
             if not match:
                 print(f"  WARN {date} {prefix} html missing, skip", file=sys.stderr)
                 continue
+
+            # 封面：优先 covers/ 文件夹对应图。兼容三种命名：
+            #   {prefix}-{slug}-cover-*、{prefix}-cover-*、{prefix}-{中文}-cover-*，最早的天用 {slug}-cover-*
+            cover_cands = []
+            if prefix:
+                cover_cands = [c for c in day_covers
+                               if re.search(rf'/{re.escape(prefix)}-[^/]*cover-[^/]*\.(?:jpg|jpeg|png)$', c)]
+            if not cover_cands and slug:
+                cover_cands = [c for c in day_covers
+                               if re.search(rf'/{re.escape(slug)}-cover-[^/]*\.(?:jpg|jpeg|png)$', c)]
+            cover_url = None
+            if cover_cands:
+                best = sorted(cover_cands, key=_cover_rank)[0]
+                cover_url = (f"https://raw.githubusercontent.com/{args.owner}/"
+                             f"{args.name}/{args.branch}/{best}")
+
             arts.append({
                 "rank": prefix,
                 "title": a.get("title", slug),
@@ -105,6 +134,7 @@ def main():
                 "score": a.get("score"),
                 "rawUrl": (f"https://raw.githubusercontent.com/{args.owner}/"
                            f"{args.name}/{args.branch}/{match}"),
+                "coverUrl": cover_url,
             })
         if arts:
             out_days.append({"date": date, "month": month,

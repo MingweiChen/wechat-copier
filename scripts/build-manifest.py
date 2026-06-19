@@ -87,12 +87,50 @@ def build_articles(date, month, day_dir, owner, name):
 
         rel_path = str(html_file.relative_to(day_dir.parent.parent))
         raw_url = RAW_BASE.format(owner=owner, name=name, path=rel_path)
+
+        # 封面：优先 covers/ 文件夹对应图（新结构），其次日目录下（旧扁平）
+        # 兼容三种命名：{prefix}-{slug}-cover-*、{prefix}-cover-*、{prefix}-{中文标题}-cover-*
+        cover_url = None
+        cover_dir = day_dir / "covers"
+        cover_cands = []
+        search_dirs = []
+        if cover_dir.is_dir():
+            search_dirs.append(cover_dir)
+        search_dirs.append(day_dir)
+        # 候选 glob 模式：优先 prefix 前缀，再试 slug（最早的天用 slug 命名封面）
+        patterns = []
+        if prefix:
+            patterns.append(f"{prefix}-*cover-*")
+        if slug:
+            patterns.append(f"{slug}-cover-*")
+        for sd in search_dirs:
+            for pat in patterns:
+                hits = []
+                for ext in ("jpg", "png", "jpeg"):
+                    hits += list(sd.glob(f"{pat}.{ext}"))
+                if hits:
+                    cover_cands = hits
+                    break
+            if cover_cands:
+                break
+        if cover_cands:
+            def _cover_rank(p):
+                n = p.name
+                for i, kind in enumerate(["-cover-wide", "-cover-square", "-cover-banner"]):
+                    if kind in n:
+                        return i
+                return 9
+            best = sorted(cover_cands, key=_cover_rank)[0]
+            cover_rel = str(best.relative_to(day_dir.parent.parent))
+            cover_url = RAW_BASE.format(owner=owner, name=name, path=cover_rel)
+
         arts.append({
             "rank": prefix,
             "title": a.get("title", slug),
             "slug": slug,
             "score": a.get("score"),
             "rawUrl": raw_url,
+            "coverUrl": cover_url,
         })
     if not arts:
         return None

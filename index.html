@@ -52,6 +52,8 @@
   .btn-copy.ok { background: var(--ok); }
   .btn-copy:disabled { opacity: .6; cursor: default; }
   .btn-view { background: #fff; color: var(--accent); border: 1px solid var(--accent); text-decoration: none; display: inline-flex; align-items: center; }
+  .btn-cover { background: #fff; color: #d97706; border: 1px solid #d97706; white-space: nowrap; }
+  .btn-cover:disabled { color: #bbb; border-color: #e2e2e2; cursor: not-allowed; background: #fafafa; }
   .empty, .loading { text-align: center; color: var(--sub); padding: 40px 0; }
   .toast {
     position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%);
@@ -127,6 +129,9 @@ function render() {
           <div class="acts">
             <button class="btn-copy" data-url="${a.rawUrl}" data-title="${escapeHtml(a.title)}">📋 复制正文</button>
             <button class="btn-copy" data-title-only="${escapeHtml(a.title)}" style="background:#64748b;">标题</button>
+            ${a.coverUrl
+              ? `<button class="btn-cover" data-cover="${a.coverUrl}" data-slug="${a.slug}">🖼️ 封面</button>`
+              : `<button class="btn-cover" disabled title="该篇无封面图">🖼️ 无封面</button>`}
             <a class="btn-view" href="preview.html?u=${encodeURIComponent(a.rawUrl)}&t=${encodeURIComponent(a.title)}" target="_blank">预览</a>
           </div>
         </div>`).join("")}
@@ -139,6 +144,9 @@ function escapeHtml(s) {
 }
 
 function bindCopy() {
+  document.querySelectorAll(".btn-cover[data-cover]").forEach(b => {
+    b.onclick = () => downloadCover(b.dataset.cover, b.dataset.slug);
+  });
   document.querySelectorAll(".btn-copy[data-title-only]").forEach(b => {
     b.onclick = async () => {
       await navigator.clipboard.writeText(b.dataset.titleOnly);
@@ -184,6 +192,24 @@ async function copyRichHtml(html) {
   const range = document.createRange(); range.selectNodeContents(div);
   const sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(range);
   document.execCommand("copy"); sel.removeAllRanges(); document.body.removeChild(div);
+}
+
+// 下载封面图（fetch 成 blob 再触发下载，保留原文件名）
+async function downloadCover(url, slug) {
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const blob = await r.blob();
+    const ext = (url.split(".").pop() || "jpg").split("?")[0];
+    const a = document.createElement("a");
+    a.href = URL.createObjectURL(blob);
+    a.download = (slug || "cover") + "-cover." + ext;
+    document.body.appendChild(a); a.click(); a.remove();
+    setTimeout(() => URL.revokeObjectURL(a.href), 4000);
+    toast("✅ 封面已下载");
+  } catch (e) {
+    toast("❌ 封面下载失败：" + e.message);
+  }
 }
 
 $("#daySelect").onchange = render;
