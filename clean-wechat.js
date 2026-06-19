@@ -1,6 +1,7 @@
-// clean-wechat.js — 微信富文本复制前的 HTML 清洗（移植自 wechat-article-workflow/scripts/clean-html.py）
+// clean-wechat.js — 微信富文本复制前的 HTML 清洗（权威来源，2026-06-19 统一）
 // 解决微信安卓 APP（X5 内核）把标签间空白/换行拆成大量空行空格的问题。
 // 用于复制到剪贴板前压缩 HTML —— 剪贴板不需人读，做完全压缩对安卓最安全。
+// ⚠️ 这是清洗逻辑的**唯一权威来源**；wechat-article-workflow 的旧 clean-html.py 已 deprecated 并指向此文件。
 // 全局暴露 window.cleanWechatHtml(html) -> cleanedHtml
 (function () {
   function cleanWechatHtml(html) {
