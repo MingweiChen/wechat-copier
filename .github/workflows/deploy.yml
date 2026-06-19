@@ -1,0 +1,62 @@
+name: Build manifest & deploy Pages
+
+on:
+  schedule:
+    - cron: "30 15 * * *"   # 每天 UTC 15:30（北京 23:30），文章 workflow 跑完后
+  workflow_dispatch: {}       # 手动触发
+  push:
+    branches: [main]
+    paths:
+      - "index.html"
+      - "preview.html"
+      - "scripts/**"
+      - ".github/workflows/**"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build manifest from wechat-articles repo
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 scripts/build-manifest-remote.py \
+            --owner MingweiChen --name wechat-articles --branch main \
+            --out manifest.json
+          echo "---- manifest summary ----"
+          python3 -c "import json;d=json.load(open('manifest.json'));print(d['dayCount'],'days /',sum(x['count'] for x in d['days']),'articles')"
+
+      - name: Commit manifest if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          if ! git diff --quiet manifest.json; then
+            git add manifest.json
+            git commit -m "chore: refresh manifest $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          else
+            echo "manifest unchanged"
+          fi
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Deploy to Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

@@ -1,0 +1,1043 @@
+{
+  "generated": "2026-06-19T14:34:15Z",
+  "repo": "MingweiChen/wechat-articles",
+  "dayCount": 24,
+  "days": [
+    {
+      "date": "2026-06-19",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "143 亿买下最贵 AI 团队,一年后扎克伯格最不被同行看好！",
+          "slug": "meta-superintelligence-talent-paradox",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-19/html/01-meta-superintelligence-talent-paradox-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "GPT-5.6 还没发布,它的上线日期已被押上近百万美元！",
+          "slug": "gpt56-prediction-market-bet",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-19/html/02-gpt56-prediction-market-bet-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "这家中国 AI 公司一年赚的钱,几乎等于它刚融的 3 亿美元！",
+          "slug": "liblib-evoken-arr-funding",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-19/html/03-liblib-evoken-arr-funding-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "消失 18 个月,OpenAI 前 CTO 带着相反的路线回来了！",
+          "slug": "mira-murati-thinking-machines-comeback",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-19/html/04-mira-murati-thinking-machines-comeback-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "Databricks 创始人:AGI 已经来了,只是没人放它进公司上班！",
+          "slug": "databricks-agi-already-here",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-19/html/05-databricks-agi-already-here-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-18",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "三家AI巨头四万亿估值，两周内集体挤进华尔街闸门",
+          "slug": "ai-giants-ipo-wallstreet",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-18/html/01-ai-giants-ipo-wallstreet-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "34.4%对32.3%，Anthropic企业采用率首次反超OpenAI！",
+          "slug": "anthropic-passes-openai-enterprise",
+          "score": 83,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-18/html/02-anthropic-passes-openai-enterprise-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "贝索斯掏120亿押注物理AI：要教AI自己造发动机！",
+          "slug": "bezos-prometheus-physical-ai",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-18/html/03-bezos-prometheus-physical-ai-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "苹果八年首次松口：Intel最先进芯片量产，逼近代工订单！",
+          "slug": "intel-most-advanced-chip-apple",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-18/html/04-intel-most-advanced-chip-apple-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "Suno融4亿同时被唱片巨头集体起诉：这场版权战定整个AIGC生死！",
+          "slug": "suno-ai-music-copyright-war",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-18/html/05-suno-ai-music-copyright-war-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-17",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "GitHub本月爆款一半在给AI立规矩，风向彻底掉头了！",
+          "slug": "github-anti-ai-slop",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-17/html/01-github-anti-ai-slop-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "1500亿次真人决策被打包：游戏正从产品变成喂AI的考场！",
+          "slug": "gaming-ai-turning-point",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-17/html/02-gaming-ai-turning-point-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "开源智能榜前十占八席：中国军团登顶，八成创业公司默认选它！",
+          "slug": "open-source-top10-china",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-17/html/03-open-source-top10-china-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "59辆对600辆，纯视觉Robotaxi落后了，卡住它的是数据不是决心！",
+          "slug": "robotaxi-59-vs-600",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-17/html/04-robotaxi-59-vs-600-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "马斯克敲钟两天后出手：SpaceX用600亿股票收购Cursor，史上最大并购！",
+          "slug": "spacex-cursor-60b",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-17/html/05-spacex-cursor-60b-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-16",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "三天前还被吹爆，72小时后地表最强AI被亲妈一键关停",
+          "slug": "三天前还被吹爆72小时后地表最强AI被亲妈一键关停",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-16/html/01-三天前还被吹爆72小时后地表最强AI被亲妈一键关停-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "黄仁勋把人形机器人开源，10月发售本体交给中国公司",
+          "slug": "黄仁勋把人形机器人开源10月发售本体交给中国公司",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-16/html/02-黄仁勋把人形机器人开源10月发售本体交给中国公司-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "10亿用户的ChatGPT，被自家人宣判：聊天已死",
+          "slug": "10亿用户的ChatGPT被自家人宣判聊天已死",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-16/html/03-10亿用户的ChatGPT被自家人宣判聊天已死-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "我们可能一直担心错了，真正失控的是一百万个普通AI",
+          "slug": "我们可能一直担心错了真正失控的是一百万个普通AI",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-16/html/04-我们可能一直担心错了真正失控的是一百万个普通AI-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "国产具身AI学会先想后做，复杂任务完成率飙升40%！",
+          "slug": "国产具身AI学会先想后做复杂任务完成率飙升40",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-16/html/05-国产具身AI学会先想后做复杂任务完成率飙升40-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-15",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI 收购前 Gitpod：给 500 万 Codex 用户配上 7×24 工位！",
+          "slug": "openai-acquires-ona-codex-always-on",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-15/html/01-openai-acquires-ona-codex-always-on-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "今天豆包正式长出腿：3.45 亿月活第一次能替你跑腿！",
+          "slug": "doubao-task-mode-launch",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-15/html/02-doubao-task-mode-launch-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "90 分钟下线：9650 亿 AI 公司一封信关停旗舰模型！",
+          "slug": "claude-fable5-shutdown-compliance",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-15/html/03-claude-fable5-shutdown-compliance-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "2 万亿循环订单：AI 公司和云厂商正在玩一场奇特资金游戏！",
+          "slug": "ai-cloud-circular-2-trillion-deals",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-15/html/04-ai-cloud-circular-2-trillion-deals-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "Karpathy 给自己创造的 Vibe Coding 送终：14 个月生命！",
+          "slug": "vibe-coding-death-karpathy-agentic-engineering",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-15/html/05-vibe-coding-death-karpathy-agentic-engineering-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-13",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Qwen3.7跑赢谷歌国产Agent能用电脑了！",
+          "slug": "qwen-3-7-plus-multimodal-agent",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-13/html/01-qwen-3-7-plus-multimodal-agent-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "端侧AI摊牌：苹果年付10亿，中国1T塞进手机！",
+          "slug": "edge-ai-three-paths",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-13/html/02-edge-ai-three-paths-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "雷军盐城极限直播：YU7 八项硬核测试一镜到底过关！",
+          "slug": "xiaomi-yu7-leijun-yancheng",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-13/html/03-xiaomi-yu7-leijun-yancheng-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "鸿蒙7超iOS！1.8亿日活背后中国OS体系战开打！",
+          "slug": "harmonyos-7-surpass-ios",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-13/html/04-harmonyos-7-surpass-ios-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "璇玑A3+兜底48小时结案，比亚迪智驾把规则改写了！",
+          "slug": "byd-4nm-zhixuan-zerofault",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-13/html/05-byd-4nm-zhixuan-zerofault-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-12",
+      "month": "2026-06",
+      "count": 6,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "华为盘古2.0全栈开源：505B参数+昇腾鸿蒙闭环，国产AI赢麻了！",
+          "slug": "06-huawei-pangu-2",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-12/01-SpaceX估值1.8万亿商业航天进入超级公司时代-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "SpaceX估值1.8万亿：商业航天进入\"超级公司\"时代！",
+          "slug": "01-musk-trillionaire",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-12/02-2026年AI元年的龙虾时刻智能体如何改写大模型规则-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "2026年AI元年的\"龙虾时刻\"：智能体如何改写大模型规则！",
+          "slug": "02-openclaw-agent-era",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-12/03-AI行业的电费账单1万亿借款与翻倍涨电费的真实代价-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "AI行业的\"电费账单\"：1万亿借款与翻倍涨电费的真实代价！",
+          "slug": "03-warren-ai-bubble",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-12/04-KKR联手英伟达成立百亿AI基建公司前AWS掌门人挂帅-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "KKR联手英伟达成立\"百亿AI基建公司\"，前AWS掌门人挂帅！",
+          "slug": "04-kkr-nvidia-helix",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-12/05-Anthropic推出Claude Corps教非营利组织用AI改变世界-wechat.html"
+        },
+        {
+          "rank": "06",
+          "title": "Anthropic推出\"Claude Corps\"：教非营利组织用AI改变世界！",
+          "slug": "05-anthropic-claude-corps",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-12/06-华为盘古2.0全栈开源505B参数昇腾鸿蒙闭环国产AI赢麻了-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-11",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "库克谢幕WWDC：2.5亿罚单后，Siri大脑正式接入Gemini！",
+          "slug": "",
+          "score": 90.0,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-11/01-库克谢幕WWDC2.5亿罚单后Siri大脑正式接入Gemini-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "小米Q1赚61亿同比-43%，雷军反手砸600亿AI豪赌！",
+          "slug": "",
+          "score": 88.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-11/02-小米Q1赚61亿同比-43雷军反手砸600亿AI豪赌-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "扎克伯格9个月翻盘：砍Llama调8000人换AI牌桌！",
+          "slug": "",
+          "score": 84.0,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-11/03-扎克伯格9个月翻盘砍Llama调8000人换AI牌桌-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "阿里8天换帅：92后陈宇森执掌钉钉，AI优先开局！",
+          "slug": "",
+          "score": 82.0,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-11/04-阿里8天换帅92后陈宇森执掌钉钉AI优先开局-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "黄仁勳今天走上证人席：6.7亿芯片争议背后的合规大考！",
+          "slug": "",
+          "score": 80.0,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-11/05-黄仁勳今天走上证人席67亿芯片争议背后的合规大考-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-10",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "22亿入主当晚就质押50%，追觅创始人A股首秀两连跌停！",
+          "slug": "zhuimi-jiamei-22yi",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-10/01-zhuimi-jiamei-22yi-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "库克最后一场WWDC：苹果给Siri装了Google内核！",
+          "slug": "apple-wwdc26-siri-gemini",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-10/02-apple-wwdc26-siri-gemini-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "Anthropic掀桌子！Mythos级Fable 5公开，Opus一夜变备胎！",
+          "slug": "anthropic-fable5-mythos",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-10/03-anthropic-fable5-mythos-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "2499元、12小时续航、0.7秒抓拍！华为撕开AI眼镜千亿临界点！",
+          "slug": "huawei-ai-glasses-2499",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-10/04-huawei-ai-glasses-2499-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "鸿蒙7.0倒计时48小时！纯血、自研、端侧AI三件事一次干完！",
+          "slug": "huawei-hdc2026-harmonyos7",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-10/05-huawei-hdc2026-harmonyos7-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-09",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "中国独角兽11.7万亿，AI首超新能源千亿级激增！",
+          "slug": "china-unicorn-2026-ai-supremacy",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-09/01-china-unicorn-2026-ai-supremacy-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "零跑5月交付8.1万领跑，理想同比降18%小米寻天曝光！",
+          "slug": "nev-may-shakeup-xiaomi-skynomad",
+          "score": 84.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-09/02-nev-may-shakeup-xiaomi-skynomad-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "DeepSeek敲定500亿融资，腾讯领投阿里出局！",
+          "slug": "deepseek-500b-funding",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-09/03-deepseek-500b-funding-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "智谱150亿募资IPO，中国AI四子半年冲科创板！",
+          "slug": "china-ai-four-ipos",
+          "score": 81.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-09/04-china-ai-four-ipos-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "宇树IPO同日黄仁勋押注H2+，具身智能中国双核！",
+          "slug": "china-embodied-ai-dual-core",
+          "score": 80,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-09/05-china-embodied-ai-dual-core-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-07",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "追觅俞浩微博禁言！700亿IPO雷军狂赚28亿翻200倍！",
+          "slug": "zhuimi-yuhao-banned",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-07/01-zhuimi-yuhao-banned-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "Anthropic冲刺9650亿IPO！Claude剑指硅谷AI第一股！",
+          "slug": "anthropic-ipo-965b",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-07/02-anthropic-ipo-965b-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "10亿用户开口聊AI！OpenAI Realtime Audio上线，延迟低至320毫秒！",
+          "slug": "openai-realtime-audio",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-07/03-openai-realtime-audio-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "Anthropic重磅自爆！80%代码由Claude撰写，AI构建自身的时代来了！",
+          "slug": "anthropic-80-percent-code",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-07/04-anthropic-80-percent-code-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "英伟达Cosmos 3 8项基准全拿第1！黄仁勋物理AI野心彻底亮牌！",
+          "slug": "nvidia-cosmos3",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-07/05-nvidia-cosmos3-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-06",
+      "month": "2026-06",
+      "count": 6,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "微软亮剑：7款自研大模型发布，数学得分97%碾压Claude，量子芯片2029商用！",
+          "slug": "microsoft-build-mai",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-06/01-微软亮剑7款自研大模型发布数学得分97碾压Claude量子芯片2029商用-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "华为1.4纳米路线图曝光：中美AI差距仅剩2.7%，DeepSeek用国产芯片练出1.6万亿参数！",
+          "slug": "huawei-chip-china-ai",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-06/02-华为14纳米路线图曝光中美AI差距仅剩27DeepSeek用国产芯片练出16万亿参数-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "库克最后一战：Siri整合Gemini和ChatGPT，苹果终于承认单打独斗搞不定AI！",
+          "slug": "apple-wwdc-siri",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-06/03-库克最后一战Siri整合Gemini和ChatGPT苹果终于承认单打独斗搞不定AI-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "黄仁勋+高通CEO+英特尔CEO齐喊：AI Agent时代全面到来，抵抗是徒劳的！",
+          "slug": "computex-ai-agent",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-06/04-黄仁勋高通CEO英特尔CEO齐喊AI Agent时代全面到来抵抗是徒劳的-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "Waymo新车砍掉一半传感器：成本暴降至2万美元，自动驾驶的成本战正式打响！",
+          "slug": "waymo-ojai-robotaxi",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-06/05-Waymo新车砍掉一半传感器成本暴降至2万美元自动驾驶的成本战正式打响-wechat.html"
+        },
+        {
+          "rank": "06",
+          "title": "Claude让陌生人看到你的对话！硅谷云AI最致命漏洞，3年犯2次同款错误",
+          "slug": "claude-leak-china-vs-us",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-06/06-Claude让陌生人看到你的对话硅谷云AI最致命漏洞3年犯2次同款错误-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-03",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "SpaceX锚定1.75万亿美元IPO：史上最大科技股要来了！",
+          "slug": "spacex-ipo",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-03/01-SpaceX锚定1.75万亿美元IPO史上最大科技股要来了-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "微软发布7款自研AI模型：8月Copilot换芯，GPT-4降为备选！",
+          "slug": "microsoft-mai",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-03/02-微软发布7款自研AI模型8月Copilot换芯GPT-4降为备选-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "Uber四个月烧光全年AI预算：程序员每月限额1500美元！",
+          "slug": "uber-ai-budget",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-03/03-Uber四个月烧光全年AI预算程序员每月限额1500美元-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "SpaceX锁定70%低轨黄金席位：中国卫星互联网还有多少时间！",
+          "slug": "space-race",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-03/04-SpaceX锁定70%低轨黄金席位中国卫星互联网还有多少时间-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "MiniMax编程超GPT-5.5：港股上市6个月再冲科创板！",
+          "slug": "minimax-m3",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-03/05-MiniMax编程超GPT-5.5港股上市6个月再冲科创板-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-06-02",
+      "month": "2026-06",
+      "count": 6,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "AI诊断正式纳入医保：12项检查可报销，首年惠及1.2亿人！",
+          "slug": "ai-medical-insurance",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-02/01-AI诊断正式纳入医保12项检查可报销首年惠及1.2亿人-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "宇树科技73天闪电过会：募资42亿冲刺A股具身智能第一股！",
+          "slug": "unitree-ipo",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-02/02-宇树科技73天闪电过会募资42亿冲刺A股具身智能第一股-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "Anthropic秘密递交IPO：估值9650亿超越OpenAI，AI王座正式易主！",
+          "slug": "anthropic-ipo",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-02/03-Anthropic秘密递交IPO估值9650亿超越OpenAI-AI王座正式易主-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "英伟达RTX Spark vs华为鸿蒙电脑：1P算力和全链自研，两条路！",
+          "slug": "rtx-spark-vs-hongmeng",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-02/04-英伟达RTX-Spark-vs华为鸿蒙电脑1P算力和全链自研两条路-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "马斯克600亿美元收购Cursor：SpaceX上市后30天内完成交易！",
+          "slug": "spacex-cursor",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-02/05-马斯克600亿美元收购Cursor-SpaceX上市后30天内完成交易-wechat.html"
+        },
+        {
+          "rank": "06",
+          "title": "DeepSeek OpenCode月增千星：免费开源的AI编程工具杀入战场！",
+          "slug": "deepseek-opencode",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-02/06-DeepSeek-OpenCode月增千星免费开源的AI编程工具杀入战场-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-29",
+      "month": "2026-05",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "特斯拉关厂梭哈机器人中国却已卖2万台！80%份额碾压全球格局已定",
+          "slug": "humanoid-robot-war",
+          "score": 98,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-29/01-humanoid-robot-war-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "23万人被AI替代裁员后一半公司又把人请回来了！",
+          "slug": "ai-layoff-truth",
+          "score": 95,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-29/02-ai-layoff-truth-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "9.5万大学生研究揭露：每天用AI的学生26%在作弊！",
+          "slug": "ai-cheating-study",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-29/03-ai-cheating-study-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "FDA批准1357个AI医疗设备！首款纯AI设计新药进入临床II期",
+          "slug": "ai-healthcare-breakthrough",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-29/04-ai-healthcare-breakthrough-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "日增4000星的代码神器来了！Understand-Anything让你秒懂20万行代码",
+          "slug": "understand-anything",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-29/05-understand-anything-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-28",
+      "month": "2026-05",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "华为韬定律：55%密度提升+41%能效，逻辑折叠秋季首发！",
+          "slug": "huawei-tau-law",
+          "score": 95,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-28/01-huawei-tau-law-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "3亿美元收购编译器公司，Anthropic掐住OpenAI的SDK命脉！",
+          "slug": "anthropic-stainless",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-28/02-anthropic-stainless-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "14亿信徒的领袖警告：AI风险已大到梵蒂冈都坐不住了！",
+          "slug": "pope-ai-warning",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-28/03-pope-ai-warning-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "440亿vs240亿：三家AI巨头下一代模型同周泄露！",
+          "slug": "ai-models-leak",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-28/04-ai-models-leak-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "60亿美元敲定：Amazon联手Snowflake，Agent专用芯片时代正式开启！",
+          "slug": "amazon-snowflake",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-28/05-amazon-snowflake-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-26",
+      "month": "2026-05",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "马斯克败诉OpenAI：1500亿索赔被驳回，但审判爆出的内幕才是重头戏！",
+          "slug": "musk-altman-trial",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-26/01-musk-altman-trial-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "扎克伯格再挥刀：Meta裁员8000人，省下的钱全拿去买GPU！",
+          "slug": "meta-layoffs",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-26/02-meta-layoffs-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "Anthropic估值冲击9000亿：成立仅5年，凭什么超越OpenAI成全球最贵AI公司！",
+          "slug": "anthropic-valuation",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-26/03-anthropic-valuation-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "DeepSeek永久降价75%：API价格低至OpenAI九分之一，定价权之战开打！",
+          "slug": "deepseek-price-cut",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-26/04-deepseek-price-cut-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "GitHub热榜变天：Agent Skills大爆发，单日涨星2000+，AI编程技能树时代来了！",
+          "slug": "github-agent-skills",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-26/05-github-agent-skills-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-25",
+      "month": "2026-05",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "52%企业已用AI Agent上线生产，88%获正向ROI，聊天机器人时代终结！",
+          "slug": "topic2-ai-agent",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-25/01-ai-agent-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "72小时3巨头同发新旗舰，DeepSeek价格仅OpenAI六分之一，大模型格局变了！",
+          "slug": "topic1-model-war",
+          "score": 84.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-25/02-model-war-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "斯坦福报告实锤：中美AI差距仅剩2.7%，三年前的恐慌可以收起来了。",
+          "slug": "topic4-stanford-report",
+          "score": 84.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-25/03-stanford-report-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "特斯拉Optimus年产100万台，中国掌控70%供应链，机器人元年来了！",
+          "slug": "topic5-humanoid-robot",
+          "score": 84.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-25/04-humanoid-robot-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "一季度1100亿砸向AI，研发投入超营收10倍，这不是泡沫是国运豪赌。",
+          "slug": "topic3-ai-investment",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-25/05-ai-investment-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-23",
+      "month": "2026-05",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "微软峰会到华为大会：这5个开源新趋势决定了你下半年的财路（建议收藏）",
+          "slug": "微软峰会到华为大会这5个开源新趋势决定了你下半年的财路建议收藏",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-23/01-微软峰会到华为大会这5个开源新趋势决定了你下半年的财路建议收藏-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "OpenAI攻克80年数学悬案的同一天，5400台防火墙被AI辅助攻破：技术双刃剑的残酷真相",
+          "slug": "OpenAI攻克80年数学悬案的同一天5400台防火墙被AI辅助攻破技术双刃剑的残酷真相",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-23/02-OpenAI攻克80年数学悬案的同一天5400台防火墙被AI辅助攻破技术双刃剑的残酷真相-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "一边是季度盈利5.59亿美元，一边是年亏损64亿美元：AI时代最魔幻的两极撕裂",
+          "slug": "一边是季度盈利5.59亿美元一边是年亏损64亿美元AI时代最魔幻的两极撕裂",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-23/03-一边是季度盈利5.59亿美元一边是年亏损64亿美元AI时代最魔幻的两极撕裂-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "Anthropic单季赚了109亿，而第一批All in AI的普通人，正在被自己押注的技术淘汰",
+          "slug": "Anthropic单季赚了109亿而第一批All-in-AI的普通人正在被自己押注的技术淘汰",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-23/04-Anthropic单季赚了109亿而第一批All-in-AI的普通人正在被自己押注的技术淘汰-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "Anthropic季度利润5.59亿美元，提前两年盈利：AI公司只会烧钱的常识，被彻底撕碎了",
+          "slug": "Anthropic季度利润5.59亿美元提前两年盈利AI公司只会烧钱的常识被彻底撕碎了",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-23/05-Anthropic季度利润5.59亿美元提前两年盈利AI公司只会烧钱的常识被彻底撕碎了-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-22",
+      "month": "2026-05",
+      "count": 6,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "李开复对话苏姿丰：大模型排座次结束，Agent诸神之战开启！",
+          "slug": "likafu-lisasu-agent",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-22/01-likafu-lisasu-agent-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "微软安永10亿美元大单：派工程师进驻企业，不落地不罢休！",
+          "slug": "microsoft-ey-agent",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-22/02-microsoft-ey-agent-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "四大痛点直接歼灭！国内首个AI智能体底层设施来了！",
+          "slug": "lingji-os-release",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-22/03-lingji-os-release-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "2亿人问理财，OpenAI接入银行账户：AI要管你的钱了！",
+          "slug": "openai-codex-finances",
+          "score": 86.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-22/04-openai-codex-finances-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "领英Liger Kernel 700万下载，这次直接让AI自己写GPU底层算子！",
+          "slug": "linkedin-liger-kernel",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-22/05-linkedin-liger-kernel-wechat.html"
+        },
+        {
+          "rank": "06",
+          "title": "15%权重交给AI！今晚《歌手》首播背后，是传媒巨头的技术军备赛！",
+          "slug": "singer2026-ai-gamble",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-22/06-singer2026-ai-gamble-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-21",
+      "month": "2026-05",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "阿里云5个月Token收入涨15倍：未来账单多一项，AI使用费来了！",
+          "slug": "alibaba-token-15x",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-21/01-alibaba-token-15x-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "ASML光刻机故障检修提速120倍：Mistral收购物理AI公司Emmi！",
+          "slug": "mistral-physics-ai",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-21/02-mistral-physics-ai-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "微软紧急开源AI Agent安全工具：85%攻击成功率背后的致命漏洞!",
+          "slug": "microsoft-agent-security",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-21/03-microsoft-agent-security-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "金蝶徐少春：未来最值钱的员工不是会干活的人，而是能指挥100个AI干活的人!",
+          "slug": "kingdee-lingee-os",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-21/04-kingdee-lingee-os-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "腾讯OpenClaw接入微信：13亿用户的AI变现窗口打开了！",
+          "slug": "tencent-openclaw-wechat",
+          "score": null,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-21/05-tencent-openclaw-wechat-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-20",
+      "month": "2026-05",
+      "count": 6,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "大神Karpathy投奔Anthropic：OpenAI联创出走，AI格局要变天？",
+          "slug": "karpathy-joins-anthropic",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-20/01-karpathy-joins-anthropic-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "9亿用户见证：谷歌Gemini Spark发布，24小时AI员工正式上岗！",
+          "slug": "google-io-spark",
+          "score": 84.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-20/02-google-io-spark-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "谷歌AI算力内卷逼走顶尖人才彭博揭秘离职潮",
+          "slug": "google-ai-exodus-compute",
+          "score": 82.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-20/03-google-ai-exodus-compute-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "扎克伯格今夜再挥刀：Meta裁员8000人，省下的钱全拿去买GPU",
+          "slug": "meta-layoff-ai",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-20/04-meta-layoff-ai-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "ChatGPT接入12000家银行：OpenAI正式围观你的存款",
+          "slug": "openai-bank-finance",
+          "score": 80.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-20/05-openai-bank-finance-wechat.html"
+        },
+        {
+          "rank": "06",
+          "title": "阿里财报亮剑：AI已攻下云收入三成江山",
+          "slug": "alibaba-ai-revenue-30",
+          "score": 80,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-20/06-alibaba-ai-revenue-30-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-18",
+      "month": "2026-05",
+      "count": 4,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "10万台人形机器人入厂：上海225亿押注具身智能时代",
+          "slug": "shanghai-robot",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-18/01-10万台人形机器人入厂上海225亿押注具身智能时代-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "黄仁勋痛斥GPU原子弹论：数十亿人用显卡，我绝不推荐核弹",
+          "slug": "nvidia-jensen",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-18/02-黄仁勋痛斥GPU原子弹论数十亿人用显卡我绝不推荐核弹-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "7.693万亿Token！中国大模型周调用量反超美国1.81倍",
+          "slug": "china-ai",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-18/03-7.693万亿Token中国大模型周调用量反超美国1.81倍-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "3周AI扫描=1年人工测试：25分钟攻击窗口倒逼安全革命",
+          "slug": "ai-cyber",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-18/04-3周AI扫描等于1年人工测试25分钟攻击窗口倒逼安全革命-wechat.html"
+        }
+      ]
+    },
+    {
+      "date": "2026-05-17",
+      "month": "2026-05",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "1万台机器人进厂拧螺丝，国内AI终于告别PPT时代，真刀真枪开干",
+          "slug": "ai-landing-china",
+          "score": 86.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-17/01-1万台机器人进厂拧螺丝国内AI终于告别PPT时代真刀真枪开干-wechat.html"
+        },
+        {
+          "rank": "02",
+          "title": "300亿vs250亿，Anthropic营收反超OpenAI，硅谷正在上演最狠权力交接",
+          "slug": "anthropic-vs-openai",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-17/02-300亿vs250亿Anthropic营收反超OpenAI硅谷正在上演最狠权力交接-wechat.html"
+        },
+        {
+          "rank": "03",
+          "title": "AI伪造破损图骗仅退款泛滥，国家反诈App终于上线鉴定功能",
+          "slug": "ai-fraud-refund",
+          "score": 84.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-17/03-AI伪造破损图骗仅退款泛滥国家反诈App终于上线鉴定功能-wechat.html"
+        },
+        {
+          "rank": "04",
+          "title": "HashiCorp创始人怒喷：大厂患上AI精神分裂症，产品越改越难用",
+          "slug": "ai-psychosis",
+          "score": 82.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-17/04-HashiCorp创始人怒喷大厂患上AI精神分裂症产品越改越难用-wechat.html"
+        },
+        {
+          "rank": "05",
+          "title": "成功率78%两周登顶，GitHub新秀击败Claude和GPT，凭什么",
+          "slug": "github-openhands",
+          "score": 82.5,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-05/2026-05-17/05-成功率78%两周登顶GitHub新秀击败Claude和GPT凭什么-wechat.html"
+        }
+      ]
+    }
+  ]
+}

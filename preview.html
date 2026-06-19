@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>预览 · 公众号文章</title>
+<style>
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: -apple-system, BlinkMacSystemFont, 'PingFang SC', sans-serif; background: #f5f6f8; }
+  .bar {
+    position: sticky; top: 0; background: #1a1a2e; color: #fff; padding: 12px 16px;
+    display: flex; gap: 10px; align-items: center; box-shadow: 0 2px 8px rgba(0,0,0,.2); z-index: 5;
+  }
+  .bar .t { flex: 1; font-size: 14px; font-weight: 600; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .bar a, .bar button { font: inherit; border-radius: 8px; padding: 7px 12px; border: none; cursor: pointer; white-space: nowrap; }
+  .bar a { background: #fff; color: #1a1a2e; text-decoration: none; }
+  .bar button { background: #2563eb; color: #fff; }
+  .bar button.ok { background: #16a34a; }
+  .stage { max-width: 700px; margin: 16px auto; background: #fff; border-radius: 12px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,.08); }
+  #art { padding: 16px; }
+  .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); background: #1a1a2e; color: #fff; padding: 10px 18px; border-radius: 20px; font-size: 13px; opacity: 0; transition: .25s; z-index: 50; }
+  .toast.show { opacity: 1; }
+</style>
+</head>
+<body>
+<div class="bar">
+  <a href="index.html">← 返回</a>
+  <span class="t" id="title">预览</span>
+  <button id="copyBtn">📋 复制正文</button>
+</div>
+<div class="stage"><div id="art">⏳ 加载中…</div></div>
+<div class="toast" id="toast"></div>
+<script>
+const params = new URLSearchParams(location.search);
+const url = params.get("u"); const title = params.get("t") || "预览";
+document.getElementById("title").textContent = title;
+let HTML = "";
+
+function toast(m){ const t=document.getElementById("toast"); t.textContent=m; t.classList.add("show"); clearTimeout(t._tm); t._tm=setTimeout(()=>t.classList.remove("show"),1600); }
+
+(async () => {
+  if (!url) { document.getElementById("art").textContent = "缺少 url 参数"; return; }
+  try {
+    const r = await fetch(url, { cache: "no-store" });
+    HTML = await r.text();
+    document.getElementById("art").innerHTML = HTML;
+  } catch (e) {
+    document.getElementById("art").textContent = "加载失败：" + e.message;
+  }
+})();
+
+document.getElementById("copyBtn").onclick = async () => {
+  const b = document.getElementById("copyBtn");
+  try {
+    if (navigator.clipboard && window.ClipboardItem) {
+      await navigator.clipboard.write([new ClipboardItem({
+        "text/html": new Blob([HTML], { type: "text/html" }),
+        "text/plain": new Blob([HTML], { type: "text/plain" }),
+      })]);
+    } else {
+      const sel = window.getSelection(); const range = document.createRange();
+      range.selectNodeContents(document.getElementById("art"));
+      sel.removeAllRanges(); sel.addRange(range); document.execCommand("copy"); sel.removeAllRanges();
+    }
+    b.textContent = "✅ 已复制"; b.classList.add("ok"); toast("✅ 已复制，去微信粘贴");
+    setTimeout(() => { b.textContent = "📋 复制正文"; b.classList.remove("ok"); }, 2000);
+  } catch (e) { toast("❌ " + e.message); }
+};
+</script>
+</body>
+</html>

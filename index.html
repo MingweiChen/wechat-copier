@@ -1,0 +1,191 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>公众号文章 Copier</title>
+<style>
+  :root {
+    --bg: #f5f6f8; --card: #fff; --ink: #1a1a2e; --sub: #888;
+    --line: #ececec; --accent: #2563eb; --ok: #16a34a;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--ink);
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+    line-height: 1.6;
+  }
+  header {
+    background: linear-gradient(135deg, #1a1a2e, #16213e);
+    color: #fff; padding: 20px 16px; position: sticky; top: 0; z-index: 10;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+  }
+  header h1 { margin: 0 0 4px; font-size: 19px; }
+  header .meta { font-size: 12px; opacity: .7; }
+  .wrap { max-width: 860px; margin: 0 auto; padding: 16px; }
+  .toolbar { display: flex; gap: 8px; align-items: center; margin-bottom: 14px; flex-wrap: wrap; }
+  select, button {
+    font: inherit; border-radius: 8px; border: 1px solid var(--line);
+    padding: 8px 12px; background: #fff; cursor: pointer;
+  }
+  select { min-width: 160px; }
+  .day { margin-bottom: 26px; }
+  .day h2 {
+    font-size: 15px; color: var(--sub); margin: 0 0 10px;
+    border-left: 3px solid var(--accent); padding-left: 8px;
+  }
+  .card {
+    background: var(--card); border: 1px solid var(--line); border-radius: 12px;
+    padding: 14px 16px; margin-bottom: 10px; display: flex; align-items: center;
+    gap: 12px; box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+  }
+  .rank {
+    flex: 0 0 auto; width: 30px; height: 30px; border-radius: 8px;
+    background: #1a1a2e; color: #fff; display: flex; align-items: center;
+    justify-content: center; font-size: 13px; font-weight: 700;
+  }
+  .info { flex: 1 1 auto; min-width: 0; }
+  .title { font-weight: 600; font-size: 15px; margin: 0; word-break: break-word; }
+  .sub { font-size: 12px; color: var(--sub); margin-top: 2px; }
+  .acts { flex: 0 0 auto; display: flex; gap: 6px; }
+  .btn-copy { background: var(--accent); color: #fff; border: none; white-space: nowrap; }
+  .btn-copy.ok { background: var(--ok); }
+  .btn-copy:disabled { opacity: .6; cursor: default; }
+  .btn-view { background: #fff; color: var(--accent); border: 1px solid var(--accent); text-decoration: none; display: inline-flex; align-items: center; }
+  .empty, .loading { text-align: center; color: var(--sub); padding: 40px 0; }
+  .toast {
+    position: fixed; left: 50%; bottom: 28px; transform: translateX(-50%);
+    background: #1a1a2e; color: #fff; padding: 10px 18px; border-radius: 20px;
+    font-size: 13px; opacity: 0; transition: opacity .25s; pointer-events: none; z-index: 50;
+  }
+  .toast.show { opacity: 1; }
+  @media (max-width: 560px) {
+    .card { flex-wrap: wrap; }
+    .acts { width: 100%; }
+    .btn-copy, .btn-view { flex: 1; justify-content: center; }
+  }
+</style>
+</head>
+<body>
+<header>
+  <h1>📋 公众号文章 Copier</h1>
+  <div class="meta" id="meta">加载中…</div>
+</header>
+<div class="wrap">
+  <div class="toolbar">
+    <select id="daySelect"><option value="">全部日期</option></select>
+    <button id="refreshBtn">🔄 刷新</button>
+    <span class="meta" id="hint" style="color:var(--sub);font-size:12px;"></span>
+  </div>
+  <div id="list"><div class="loading">⏳ 正在加载文章列表…</div></div>
+</div>
+<div class="toast" id="toast"></div>
+
+<script>
+const MANIFEST_URL = "manifest.json?t=" + Date.now();
+let DATA = null;
+
+const $ = (s) => document.querySelector(s);
+function toast(msg) {
+  const t = $("#toast"); t.textContent = msg; t.classList.add("show");
+  clearTimeout(t._tm); t._tm = setTimeout(() => t.classList.remove("show"), 1600);
+}
+
+async function load() {
+  $("#list").innerHTML = '<div class="loading">⏳ 正在加载文章列表…</div>';
+  try {
+    const r = await fetch(MANIFEST_URL, { cache: "no-store" });
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    DATA = await r.json();
+  } catch (e) {
+    $("#list").innerHTML = '<div class="empty">❌ 加载 manifest 失败：' + e.message + '</div>';
+    return;
+  }
+  const total = DATA.days.reduce((s, d) => s + d.count, 0);
+  $("#meta").textContent = `${DATA.repo} · ${DATA.dayCount} 天 / ${total} 篇 · 更新 ${DATA.generated.replace('T',' ').replace('Z',' UTC')}`;
+  const sel = $("#daySelect");
+  sel.innerHTML = '<option value="">全部日期</option>' +
+    DATA.days.map(d => `<option value="${d.date}">${d.date}（${d.count}篇）</option>`).join("");
+  render();
+}
+
+function render() {
+  const filter = $("#daySelect").value;
+  const days = filter ? DATA.days.filter(d => d.date === filter) : DATA.days;
+  if (!days.length) { $("#list").innerHTML = '<div class="empty">没有文章</div>'; return; }
+  $("#list").innerHTML = days.map(d => `
+    <div class="day">
+      <h2>📅 ${d.date} · ${d.count} 篇</h2>
+      ${d.articles.map(a => `
+        <div class="card">
+          <div class="rank">${a.rank || "–"}</div>
+          <div class="info">
+            <p class="title">${escapeHtml(a.title)}</p>
+            <div class="sub">${a.slug}${a.score != null ? " · " + a.score + "分" : ""}</div>
+          </div>
+          <div class="acts">
+            <button class="btn-copy" data-url="${a.rawUrl}" data-title="${escapeHtml(a.title)}">📋 复制正文</button>
+            <button class="btn-copy" data-title-only="${escapeHtml(a.title)}" style="background:#64748b;">标题</button>
+            <a class="btn-view" href="preview.html?u=${encodeURIComponent(a.rawUrl)}&t=${encodeURIComponent(a.title)}" target="_blank">预览</a>
+          </div>
+        </div>`).join("")}
+    </div>`).join("");
+  bindCopy();
+}
+
+function escapeHtml(s) {
+  return String(s).replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function bindCopy() {
+  document.querySelectorAll(".btn-copy[data-title-only]").forEach(b => {
+    b.onclick = async () => {
+      await navigator.clipboard.writeText(b.dataset.titleOnly);
+      toast("✅ 标题已复制");
+    };
+  });
+  document.querySelectorAll(".btn-copy[data-url]").forEach(b => {
+    b.onclick = async () => {
+      const old = b.textContent; b.disabled = true; b.textContent = "⏳ 拉取中…";
+      try {
+        const r = await fetch(b.dataset.url, { cache: "no-store" });
+        if (!r.ok) throw new Error("HTTP " + r.status);
+        const html = await r.text();
+        await copyRichHtml(html);
+        b.textContent = "✅ 已复制"; b.classList.add("ok");
+        toast("✅ 正文已复制，去微信编辑器粘贴");
+        setTimeout(() => { b.textContent = old; b.classList.remove("ok"); b.disabled = false; }, 2000);
+      } catch (e) {
+        b.textContent = "❌ 失败"; b.disabled = false;
+        toast("❌ " + e.message);
+        setTimeout(() => { b.textContent = old; }, 2000);
+      }
+    };
+  });
+}
+
+// 把 HTML 作为富文本写入剪贴板（粘进微信保留排版+图片）
+async function copyRichHtml(html) {
+  if (navigator.clipboard && window.ClipboardItem) {
+    const item = new ClipboardItem({
+      "text/html": new Blob([html], { type: "text/html" }),
+      "text/plain": new Blob([html], { type: "text/plain" }),
+    });
+    await navigator.clipboard.write([item]);
+    return;
+  }
+  // 兜底：execCommand
+  const div = document.createElement("div");
+  div.innerHTML = html; div.style.position = "fixed"; div.style.left = "-9999px";
+  document.body.appendChild(div);
+  const range = document.createRange(); range.selectNodeContents(div);
+  const sel = window.getSelection(); sel.removeAllRanges(); sel.addRange(range);
+  document.execCommand("copy"); sel.removeAllRanges(); document.body.removeChild(div);
+}
+
+$("#daySelect").onchange = render;
+$("#refreshBtn").onclick = load;
+load();
+</script>
+</body>
+</html>
