@@ -81,6 +81,7 @@
 </div>
 <div class="toast" id="toast"></div>
 
+<script src="clean-wechat.js"></script>
 <script>
 const MANIFEST_URL = "manifest.json?t=" + Date.now();
 let DATA = null;
@@ -166,6 +167,8 @@ function bindCopy() {
 
 // 把 HTML 作为富文本写入剪贴板（粘进微信保留排版+图片）
 async function copyRichHtml(html) {
+  // 先跑微信安卓空白清洗（移植自 clean-html.py）
+  if (window.cleanWechatHtml) html = window.cleanWechatHtml(html);
   if (navigator.clipboard && window.ClipboardItem) {
     const item = new ClipboardItem({
       "text/html": new Blob([html], { type: "text/html" }),

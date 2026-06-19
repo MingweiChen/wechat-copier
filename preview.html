@@ -30,6 +30,7 @@
 </div>
 <div class="stage"><div id="art">⏳ 加载中…</div></div>
 <div class="toast" id="toast"></div>
+<script src="clean-wechat.js"></script>
 <script>
 const params = new URLSearchParams(location.search);
 const url = params.get("u"); const title = params.get("t") || "预览";
@@ -51,11 +52,13 @@ function toast(m){ const t=document.getElementById("toast"); t.textContent=m; t.
 
 document.getElementById("copyBtn").onclick = async () => {
   const b = document.getElementById("copyBtn");
+  // 复制前跑微信安卓空白清洗
+const payload = window.cleanWechatHtml ? window.cleanWechatHtml(HTML) : HTML;
   try {
     if (navigator.clipboard && window.ClipboardItem) {
       await navigator.clipboard.write([new ClipboardItem({
-        "text/html": new Blob([HTML], { type: "text/html" }),
-        "text/plain": new Blob([HTML], { type: "text/plain" }),
+        "text/html": new Blob([payload], { type: "text/html" }),
+        "text/plain": new Blob([payload], { type: "text/plain" }),
       })]);
     } else {
       const sel = window.getSelection(); const range = document.createRange();
