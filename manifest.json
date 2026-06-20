@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-19T17:29:44Z",
+  "generated": "2026-06-20T01:13:24Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 24,
+  "dayCount": 25,
   "days": [
+    {
+      "date": "2026-06-20",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "一边裁掉15万人，一边造出4400个百万富翁，AI成了最体面的理由",
+          "slug": "ai-layoff-powder-keg",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/html/01-ai-layoff-powder-keg-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/covers/01-ai-layoff-powder-keg-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "英伟达把人形机器人做成了安卓，3万美元一台，真正的钱不在机器人",
+          "slug": "nvidia-isaac-groot-android-of-robots",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/html/02-nvidia-isaac-groot-android-of-robots-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/covers/02-nvidia-isaac-groot-android-of-robots-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "零英伟达、用华为芯片，GLM-5.2反超GPT-5.5，价格只要六分之一",
+          "slug": "glm52-huawei-zero-nvidia",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/html/03-glm52-huawei-zero-nvidia-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/covers/03-glm52-huawei-zero-nvidia-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "佛州起诉OpenAI、股东告微软，AI的问责时代用83页诉状开场",
+          "slug": "ai-accountability-era-lawsuits",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/html/04-ai-accountability-era-lawsuits-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/covers/04-ai-accountability-era-lawsuits-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "没有头也没有脸，这台20自由度的机器人想终结终结者美学",
+          "slug": "genesis-eno-faceless-humanoid",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/html/05-genesis-eno-faceless-humanoid-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-20/covers/05-genesis-eno-faceless-humanoid-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-19",
       "month": "2026-06",
