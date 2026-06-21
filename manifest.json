@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-20T16:59:37Z",
+  "generated": "2026-06-21T09:07:15Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 25,
+  "dayCount": 26,
   "days": [
+    {
+      "date": "2026-06-21",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI模型推翻80年数学猜想：这次不是检索，是真的创造。",
+          "slug": "ai-disproves-erdos-conjecture-vs-retrieval-fiasco",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/html/01-ai-disproves-erdos-conjecture-vs-retrieval-fiasco-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/covers/01-ai-disproves-erdos-conjecture-vs-retrieval-fiasco-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "OpenAI养不起关掉Sora，字节把AI视频做到5毛一秒。",
+          "slug": "ai-video-unit-economics-bytedance-vs-openai",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/html/02-ai-video-unit-economics-bytedance-vs-openai-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/covers/02-ai-video-unit-economics-bytedance-vs-openai-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "苹果给Siri换上对手的大脑：每年近10亿租Gemini跑在B200上。",
+          "slug": "apple-siri-gemini-outsourced-brain",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/html/03-apple-siri-gemini-outsourced-brain-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/covers/03-apple-siri-gemini-outsourced-brain-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "一个65行的文本文件登顶GitHub：AI竞争换了主战场。",
+          "slug": "karpathy-claude-md-rules-layer-war",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/html/04-karpathy-claude-md-rules-layer-war-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/covers/04-karpathy-claude-md-rules-layer-war-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "两大对手罕见联手喊给AI踩刹车，同一周却都在抢千亿IPO。",
+          "slug": "ai-giants-brake-pedal-vs-ipo-gas-pedal",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/html/05-ai-giants-brake-pedal-vs-ipo-gas-pedal-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-21/covers/05-ai-giants-brake-pedal-vs-ipo-gas-pedal-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-20",
       "month": "2026-06",
