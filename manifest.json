@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-21T17:00:10Z",
+  "generated": "2026-06-22T02:57:43Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 26,
+  "dayCount": 27,
   "days": [
+    {
+      "date": "2026-06-22",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "AI的尽头是电：Altman押注的核聚变17个月估值翻三倍。",
+          "slug": "ai-power-helion-fusion-2028",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/html/01-ai-power-helion-fusion-2028-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/covers/01-ai-power-helion-fusion-2028-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "万亿富翁放话单挑英伟达：马斯克要造强2-3倍的AI芯片。",
+          "slug": "musk-chip-nvidia-terafab",
+          "score": 83,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/html/02-musk-chip-nvidia-terafab-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/covers/02-musk-chip-nvidia-terafab-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "连最有钱的公司都开始卖股票烧AI：Alphabet发800亿新股。",
+          "slug": "alphabet-equity-ai-bubble",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/html/03-alphabet-equity-ai-bubble-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/covers/03-alphabet-equity-ai-bubble-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "同一个编辑器里，四家AI模型开始贴身肉搏。",
+          "slug": "copilot-four-model-arena",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/html/04-copilot-four-model-arena-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/covers/04-copilot-four-model-arena-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "GitHub热榜不追新模型了，改追驯化AI的开源项目。",
+          "slug": "github-tame-ai-memory-token",
+          "score": 80,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/html/05-github-tame-ai-memory-token-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-22/covers/05-github-tame-ai-memory-token-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-21",
       "month": "2026-06",
