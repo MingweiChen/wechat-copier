@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-22T18:55:23Z",
+  "generated": "2026-06-23T02:11:30Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 27,
+  "dayCount": 28,
   "days": [
+    {
+      "date": "2026-06-23",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "给 OpenAI 砸了上百亿的纳德拉，开始劝大家别迷信最强模型！",
+          "slug": "nadella-ai-giants-eat-economy-commoditization",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/01-给OpenAI砸了上百亿的纳德拉开始劝大家别迷信最强模型-wechat.html",
+          "coverUrl": null
+        },
+        {
+          "rank": "02",
+          "title": "GitHub 热榜第一名不再是聊天机器人，而是教 AI 自己拍片的流水线！",
+          "slug": "github-trending-agentic-video-tooling",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/02-GitHub热榜第一名不再是聊天机器人而是教AI自己拍片的流水线-wechat.html",
+          "coverUrl": null
+        },
+        {
+          "rank": "03",
+          "title": "又一个 DeepSeek 时刻：国产开源模型逼平 GPT-5.5，硅谷集体失态！",
+          "slug": "glm-5-2-deepseek-moment-long-horizon",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/03-又一个DeepSeek时刻国产开源模型逼平GPT5.5硅谷集体失态-wechat.html",
+          "coverUrl": null
+        },
+        {
+          "rank": "04",
+          "title": "谷歌一周连走两名顶级科学家，一天蒸发 2500 亿！",
+          "slug": "google-ai-brain-drain-jumper-shazeer",
+          "score": 80,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/04-谷歌一周连走两名顶级科学家一天蒸发2500亿-wechat.html",
+          "coverUrl": null
+        },
+        {
+          "rank": "05",
+          "title": "刚融 10 亿的图灵奖得主，转头警告整个 AI 行业要爆泡沫！",
+          "slug": "lecun-xai-failure-ai-bubble-world-models",
+          "score": 80,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/05-刚融10亿的图灵奖得主转头警告整个AI行业要爆泡沫-wechat.html",
+          "coverUrl": null
+        }
+      ]
+    },
     {
       "date": "2026-06-22",
       "month": "2026-06",
