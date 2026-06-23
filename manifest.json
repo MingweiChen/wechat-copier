@@ -1,5 +1,5 @@
 {
-  "generated": "2026-06-23T02:11:30Z",
+  "generated": "2026-06-23T02:19:42Z",
   "repo": "MingweiChen/wechat-articles",
   "dayCount": 28,
   "days": [
@@ -14,7 +14,7 @@
           "slug": "nadella-ai-giants-eat-economy-commoditization",
           "score": 84,
           "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/01-给OpenAI砸了上百亿的纳德拉开始劝大家别迷信最强模型-wechat.html",
-          "coverUrl": null
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/covers/01-nadella-ai-giants-eat-economy-commoditization-cover-wide.jpg"
         },
         {
           "rank": "02",
@@ -22,7 +22,7 @@
           "slug": "github-trending-agentic-video-tooling",
           "score": 84,
           "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/02-GitHub热榜第一名不再是聊天机器人而是教AI自己拍片的流水线-wechat.html",
-          "coverUrl": null
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/covers/02-github-trending-agentic-video-tooling-cover-square.jpg"
         },
         {
           "rank": "03",
@@ -30,7 +30,7 @@
           "slug": "glm-5-2-deepseek-moment-long-horizon",
           "score": 82,
           "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/03-又一个DeepSeek时刻国产开源模型逼平GPT5.5硅谷集体失态-wechat.html",
-          "coverUrl": null
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/covers/03-glm-5-2-deepseek-moment-long-horizon-cover-square.jpg"
         },
         {
           "rank": "04",
@@ -38,7 +38,7 @@
           "slug": "google-ai-brain-drain-jumper-shazeer",
           "score": 80,
           "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/04-谷歌一周连走两名顶级科学家一天蒸发2500亿-wechat.html",
-          "coverUrl": null
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/covers/04-google-ai-brain-drain-jumper-shazeer-cover-square.jpg"
         },
         {
           "rank": "05",
@@ -46,7 +46,7 @@
           "slug": "lecun-xai-failure-ai-bubble-world-models",
           "score": 80,
           "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/html/05-刚融10亿的图灵奖得主转头警告整个AI行业要爆泡沫-wechat.html",
-          "coverUrl": null
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-23/covers/05-lecun-xai-failure-ai-bubble-world-models-cover-square.jpg"
         }
       ]
     },
