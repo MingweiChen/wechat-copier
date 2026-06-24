@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-23T17:24:29Z",
+  "generated": "2026-06-24T05:00:36Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 28,
+  "dayCount": 29,
   "days": [
+    {
+      "date": "2026-06-24",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "中国超算重夺世界第一：纯CPU零GPU跑赢美国",
+          "slug": "lingsheng-cpu-top500-china-supercomputer",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/html/01-中国超算重夺世界第一纯CPU零GPU跑赢美国-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/covers/01-lingsheng-cpu-top500-china-supercomputer-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "34.4%企业采用率：Anthropic首超OpenAI",
+          "slug": "anthropic-enterprise-passes-openai-claude",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/html/02-344%企业采用率Anthropic首超OpenAI-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/covers/02-anthropic-enterprise-passes-openai-claude-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "扎克伯格弃赛模型：27亿人入口改做AI搜索切谷歌",
+          "slug": "meta-entry-point-weaponize-search",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/html/03-扎克伯格弃赛模型27亿人入口改做AI搜索切谷歌-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/covers/03-meta-entry-point-weaponize-search-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "一桩排污官司：商用AI被政府列为战争资产",
+          "slug": "doj-grok-xai-memphis-warmachine",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/html/04-一桩排污官司商用AI被政府列为战争资产-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/covers/04-doj-grok-xai-memphis-warmachine-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "AI砍掉2.1万岗位：Oracle把它写进SEC文件",
+          "slug": "oracle-sec-filing-ai-layoffs",
+          "score": 83,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/html/05-AI砍掉21万岗位Oracle把它写进SEC文件-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-24/covers/05-oracle-sec-filing-ai-layoffs-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-23",
       "month": "2026-06",
