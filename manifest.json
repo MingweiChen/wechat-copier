@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-24T17:25:35Z",
+  "generated": "2026-06-25T07:35:40Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 29,
+  "dayCount": 30,
   "days": [
+    {
+      "date": "2026-06-25",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "一家中国小公司比英伟达早半年押中同一条路，4榜登顶！",
+          "slug": "daxiao-kairos-world-model-route-vs-nvidia-cosmos",
+          "score": 83,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/html/01-daxiao-kairos-world-model-route-vs-nvidia-cosmos-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/covers/01-daxiao-kairos-world-model-route-vs-nvidia-cosmos-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "豆包2.1Pro连干18小时做完一颗芯片，AI的考卷被换了一张！",
+          "slug": "doubao-21-pro-agent-project-delivery-labor",
+          "score": 83,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/html/02-doubao-21-pro-agent-project-delivery-labor-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/covers/02-doubao-21-pro-agent-project-delivery-labor-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "489亿砸进机器人，72.8%还停在A轮之前！",
+          "slug": "embodied-ai-48b-financing-elite-club-bubble",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/html/03-embodied-ai-48b-financing-elite-club-bubble-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/covers/03-embodied-ai-48b-financing-elite-club-bubble-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Claude被塞进Slack群聊当同事：变的不是能力，是它站的位置！",
+          "slug": "anthropic-claude-tag-slack-ai-coworker",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/html/04-anthropic-claude-tag-slack-ai-coworker-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/covers/04-anthropic-claude-tag-slack-ai-coworker-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "谷歌花27亿美元把他买回来，两年后他还是去了OpenAI！",
+          "slug": "openai-hires-noam-shazeer-transformer-talent-war",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/html/05-openai-hires-noam-shazeer-transformer-talent-war-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-25/covers/05-openai-hires-noam-shazeer-transformer-talent-war-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-24",
       "month": "2026-06",
