@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-25T17:28:47Z",
+  "generated": "2026-06-26T11:59:44Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 30,
+  "dayCount": 31,
   "days": [
+    {
+      "date": "2026-06-26",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "行业造一颗AI芯片要两年，OpenAI用自家模型九个月就把它流片了",
+          "slug": "openai-jalapeno-broadcom-self-chip",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/html/01-openai-jalapeno-broadcom-self-chip-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/covers/01-openai-jalapeno-broadcom-self-chip-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "7000镑欠款律师费比本金还贵，他花400镑请AI律所打赢了官司",
+          "slug": "garfield-ai-wins-uk-court-access-justice",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/html/02-garfield-ai-wins-uk-court-access-justice-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/covers/02-garfield-ai-wins-uk-court-access-justice-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "高通39亿买的不是公司，是一个二十年只解一道题撬开英伟达的人",
+          "slug": "qualcomm-modular-lattner-cuda-moat",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/html/03-qualcomm-modular-lattner-cuda-moat-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/covers/03-qualcomm-modular-lattner-cuda-moat-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "87.8%对78.1%，《自然》让AI第一次动手开药，但有个前提全网没写全",
+          "slug": "mira-ai-agent-doctor-beats-physicians-nature",
+          "score": 79,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/html/04-mira-ai-agent-doctor-beats-physicians-nature-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/covers/04-mira-ai-agent-doctor-beats-physicians-nature-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "DeepSeek首轮融资74亿，出资方没股权没投票权还锁5年，谁在求谁",
+          "slug": "deepseek-74e-strange-financing",
+          "score": 78,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/html/05-deepseek-74e-strange-financing-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-26/covers/05-deepseek-74e-strange-financing-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-25",
       "month": "2026-06",
