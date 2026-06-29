@@ -1,8 +1,55 @@
 {
-  "generated": "2026-06-28T16:41:25Z",
+  "generated": "2026-06-29T09:15:55Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 33,
+  "dayCount": 34,
   "days": [
+    {
+      "date": "2026-06-29",
+      "month": "2026-06",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "教AI少写代码的仓库9天数万星：会拒绝比会写更值钱",
+          "slug": "ai-lazy-coder-github",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/html/01-ai-lazy-coder-github-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/covers/01-ai-lazy-coder-github-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "诺奖得主带AlphaFold投奔Anthropic：抢人改抢出成果",
+          "slug": "ai-science-second-battle",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/html/02-ai-science-second-battle-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/covers/02-ai-science-second-battle-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "OpenAI估值8520亿却推迟上市：最猛的反而最不敢敲钟",
+          "slug": "openai-ipo-delay-2027",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/html/03-openai-ipo-delay-2027-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/covers/03-openai-ipo-delay-2027-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "去年比谁烧token多今年抢着少记：记忆成AI省钱术",
+          "slug": "ai-memory-track",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/html/04-ai-memory-track-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/covers/04-ai-memory-track-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "英伟达加注xAI估值2300亿：不看模型也照样翻倍下注",
+          "slug": "xai-compute-not-model",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/html/05-xai-compute-not-model-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-06/2026-06-29/covers/05-xai-compute-not-model-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-28",
       "month": "2026-06",
