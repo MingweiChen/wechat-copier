@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-04T17:10:52Z",
+  "generated": "2026-08-05T01:07:03Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 34,
+  "dayCount": 35,
   "days": [
+    {
+      "date": "2026-08-05",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI的Astra花2000美元攻下10道数学难题，科研成本表第一次被改写了",
+          "slug": "astra-math-2000-dollar-proof",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/html/01-astra-math-2000-dollar-proof-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/covers/01-astra-math-2000-dollar-proof-azure-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Black Hat把AI Agent安全抬上主舞台：最危险的不是模型胡说，而是它已经有权限动手",
+          "slug": "blackhat-agent-security-infra",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/html/02-blackhat-agent-security-infra-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/covers/02-blackhat-agent-security-infra-azure-cover-square.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "华为诺亚开源MindMemOS：Agent下一场竞争，不是谁更聪明，而是谁记得住、带得走",
+          "slug": "mindmemos-agent-memory",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/html/03-mindmemos-agent-memory-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/covers/03-mindmemos-agent-memory-azure-cover-square.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Uber四个月烧完整年AI预算后，反而找到了正确用法：别买Copilot，重做整条流程",
+          "slug": "uber-agentic-pods-roi",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/html/04-uber-agentic-pods-roi-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/covers/04-uber-agentic-pods-roi-azure-cover-square.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "微软给AI Agent做了一张体检表：91项DevSecOps任务背后，是企业AI从试点走向审计",
+          "slug": "microsoft-zero-trust-ai-controls",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/html/05-microsoft-zero-trust-ai-controls-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-05/covers/05-microsoft-zero-trust-ai-controls-azure-cover-square.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-06-29",
       "month": "2026-06",
