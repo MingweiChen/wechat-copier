@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-05T16:58:37Z",
+  "generated": "2026-08-06T01:06:55Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 35,
+  "dayCount": 36,
   "days": [
+    {
+      "date": "2026-08-06",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "AI Agent刚学会越狱，白宫就把四大模型厂商叫到桌前：闭源模型要先体检",
+          "slug": "agent-safety-preflight-tests",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/html/01-agent-safety-preflight-tests-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/covers/01-agent-safety-preflight-tests-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Anthropic开始招芯片团队：Claude不只要赢模型，还要抢回算力账本",
+          "slug": "anthropic-chip-cost-ledger",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/html/02-anthropic-chip-cost-ledger-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/covers/02-anthropic-chip-cost-ledger-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Cloudflare要给AI Agent发钱包：下一个互联网用户，可能不是人",
+          "slug": "cloudflare-agent-wallets",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/html/03-cloudflare-agent-wallets-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/covers/03-cloudflare-agent-wallets-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "GitHub热榜上，Agent终于有了自己的电脑：从聊天框走向可执行工作台",
+          "slug": "github-agent-computer-workbench",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/html/04-github-agent-computer-workbench-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/covers/04-github-agent-computer-workbench-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "Google把Gemini Spark下放给Pro用户：个人Agent开始从奢侈品变成订阅标配",
+          "slug": "gemini-spark-subscription-agent",
+          "score": 83,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/html/05-gemini-spark-subscription-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-06/covers/05-gemini-spark-subscription-agent-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-05",
       "month": "2026-08",
