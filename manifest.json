@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-10T16:14:04Z",
+  "generated": "2026-08-11T01:06:20Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 37,
+  "dayCount": 38,
   "days": [
+    {
+      "date": "2026-08-11",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Meta开源Muse Glimmer：小模型跑本地Agent，开放权重战火重燃",
+          "slug": "meta-muse-local-agent",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/html/01-meta-muse-local-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/01-meta-muse-local-agent-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "AI融资4070亿美元却被两家公司吃掉一半：垂直应用正在被资本挤压",
+          "slug": "ai-funding-capital-concentration",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/html/02-ai-funding-capital-concentration-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/02-ai-funding-capital-concentration-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "GitHub热榜Orca：一台电脑同时跑一队Coding Agent，开发者开始管理“Agent车队”",
+          "slug": "orca-coding-agent-fleet",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/html/03-orca-coding-agent-fleet-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/03-orca-coding-agent-fleet-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Claude Science工作台：科研AI第一战不是模型，而是把60个数据库接进流程",
+          "slug": "claude-science-workbench",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/html/04-claude-science-workbench-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/04-claude-science-workbench-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "AI价值从模型上移到服务业实施：OpenAI/Anthropic开始派工程师进企业",
+          "slug": "ai-services-deployment-layer",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/html/05-ai-services-deployment-layer-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-11/05-ai-services-deployment-layer-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-08",
       "month": "2026-08",
