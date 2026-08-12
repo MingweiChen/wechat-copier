@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-11T16:22:54Z",
+  "generated": "2026-08-12T01:08:22Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 38,
+  "dayCount": 39,
   "days": [
+    {
+      "date": "2026-08-12",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Prime-agent冲上GitHub周榜第一：Coding Agent开始学会从失败里训练自己",
+          "slug": "prime-agent-self-improving-coding",
+          "score": 93,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/01-prime-agent-self-improving-coding-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/01-prime-agent-self-improving-coding-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "agency-agents刷屏：开源世界开始把一家公司拆成一组Agent角色",
+          "slug": "agency-agents-org-chart",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/02-agency-agents-org-chart-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/02-agency-agents-org-chart-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Paperclip冲上热榜：当Agent越来越多，管理台会成为新的浏览器",
+          "slug": "paperclip-agent-management-console",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/03-paperclip-agent-management-console-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/03-paperclip-agent-management-console-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "OpenMontage登上热榜：AI视频从单次生成，进入流水线生产",
+          "slug": "openmontage-agentic-video-pipeline",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/04-openmontage-agentic-video-pipeline-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/04-openmontage-agentic-video-pipeline-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "Semantica冲进GitHub周榜：RAG之后，企业AI开始补“可追责上下文”",
+          "slug": "semantica-accountable-context",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/05-semantica-accountable-context-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/05-semantica-accountable-context-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-11",
       "month": "2026-08",
