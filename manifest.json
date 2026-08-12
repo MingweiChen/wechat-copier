@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-12T01:08:22Z",
+  "generated": "2026-08-12T01:11:17Z",
   "repo": "MingweiChen/wechat-articles",
   "dayCount": 39,
   "days": [
@@ -26,11 +26,11 @@
         },
         {
           "rank": "03",
-          "title": "Paperclip冲上热榜：当Agent越来越多，管理台会成为新的浏览器",
-          "slug": "paperclip-agent-management-console",
-          "score": 88,
-          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/03-paperclip-agent-management-console-wechat.html",
-          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/03-paperclip-agent-management-console-cover-wide.jpg"
+          "title": "agent-skills冲上热榜：Agent能力开始从提示词，变成可版本化技能包",
+          "slug": "agent-skills-versioned-workflows",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/03-agent-skills-versioned-workflows-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/03-agent-skills-versioned-workflows-cover-wide.jpg"
         },
         {
           "rank": "04",
@@ -42,11 +42,11 @@
         },
         {
           "rank": "05",
-          "title": "Semantica冲进GitHub周榜：RAG之后，企业AI开始补“可追责上下文”",
-          "slug": "semantica-accountable-context",
-          "score": 84,
-          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/05-semantica-accountable-context-wechat.html",
-          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/05-semantica-accountable-context-cover-wide.jpg"
+          "title": "DeepTutor登上AI Agent热榜：AI教育从答题助手，走向长期私人导师",
+          "slug": "deeptutor-personalized-learning",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/html/05-deeptutor-personalized-learning-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-12/05-deeptutor-personalized-learning-cover-wide.jpg"
         }
       ]
     },
