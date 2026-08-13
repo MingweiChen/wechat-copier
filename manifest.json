@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-12T16:23:41Z",
+  "generated": "2026-08-13T01:05:49Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 39,
+  "dayCount": 40,
   "days": [
+    {
+      "date": "2026-08-13",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Cloudflare Agents Week刷屏：Agentic Internet的地基铺好了",
+          "slug": "cloudflare-agentic-internet",
+          "score": 94,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/html/01-cloudflare-agentic-internet-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/01-cloudflare-agentic-internet-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Semantica冲上热榜：Agent上下文开始有来源和责任链",
+          "slug": "semantica-accountable-context",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/html/02-semantica-accountable-context-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/02-semantica-accountable-context-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Firecrawl anydoc爆火：Agent终于开始啃真实世界的脏文档",
+          "slug": "firecrawl-anydoc-document-gateway",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/html/03-firecrawl-anydoc-document-gateway-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/03-firecrawl-anydoc-document-gateway-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Herdr上热榜：Coding Agent需要一个能长期居住的运行时",
+          "slug": "herdr-agent-runtime",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/html/04-herdr-agent-runtime-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/04-herdr-agent-runtime-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "diagram-design爆火：AI生成内容进入反垃圾审美阶段",
+          "slug": "diagram-design-anti-slop-expression",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/html/05-diagram-design-anti-slop-expression-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-13/05-diagram-design-anti-slop-expression-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-12",
       "month": "2026-08",
