@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-14T16:12:50Z",
+  "generated": "2026-08-15T01:06:02Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 40,
+  "dayCount": 41,
   "days": [
+    {
+      "date": "2026-08-15",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Grok 4.6接入Copilot：Coding Agent进入多模型调度时代",
+          "slug": "grok-copilot-multimodel-agent",
+          "score": 94,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/html/01-grok-copilot-multimodel-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/01-grok-copilot-multimodel-agent-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "OpenAI企业收入反超ChatGPT：AI商业化从订阅转向流程租金",
+          "slug": "openai-enterprise-rent",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/html/02-openai-enterprise-rent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/02-openai-enterprise-rent-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Anthropic搁置Model 2：AI竞赛第一次把不发布变成产品信号",
+          "slug": "anthropic-model2-safety-brake",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/html/03-anthropic-model2-safety-brake-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/03-anthropic-model2-safety-brake-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Gemini 3.7 Flash低价发布：工作马模型开始打价格战",
+          "slug": "gemini37-flash-workhorse-pricewar",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/html/04-gemini37-flash-workhorse-pricewar-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/04-gemini37-flash-workhorse-pricewar-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "TencentDB Agent Memory上热榜：Agent记忆开始变成团队资产",
+          "slug": "tencentdb-agent-memory-team-asset",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/html/05-tencentdb-agent-memory-team-asset-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-15/05-tencentdb-agent-memory-team-asset-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-13",
       "month": "2026-08",
