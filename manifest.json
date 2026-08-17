@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-16T15:43:27Z",
+  "generated": "2026-08-17T01:06:29Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 41,
+  "dayCount": 42,
   "days": [
+    {
+      "date": "2026-08-17",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Needle冲上热榜：14MB基础模型把AI塞进手表和机器人",
+          "slug": "needle-tiny-foundation-model",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/html/01-needle-tiny-foundation-model-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/01-needle-tiny-foundation-model-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Unsloth本地训练界面刷屏：开源模型工厂搬到个人电脑",
+          "slug": "unsloth-local-model-factory",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/html/02-unsloth-local-model-factory-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/02-unsloth-local-model-factory-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "CLI-Anything爆火：所有软件都要先学会被Agent调用",
+          "slug": "cli-anything-agent-native-software",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/html/03-cli-anything-agent-native-software-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/03-cli-anything-agent-native-software-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Cordis冲上日榜：Agent系统开始从工具链走向时空组合框架",
+          "slug": "cordis-spatiotemporal-composability",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/html/04-cordis-spatiotemporal-composability-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/04-cordis-spatiotemporal-composability-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "ToolJet AI冲上热榜：企业内应用开始由Agent现场生成",
+          "slug": "tooljet-ai-internal-app-generation",
+          "score": 81,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/html/05-tooljet-ai-internal-app-generation-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-17/05-tooljet-ai-internal-app-generation-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-15",
       "month": "2026-08",
