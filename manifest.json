@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-18T15:54:45Z",
+  "generated": "2026-08-19T01:07:20Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 42,
+  "dayCount": 43,
   "days": [
+    {
+      "date": "2026-08-19",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI给研发踩刹车：Agent安全事件把速度崇拜打醒",
+          "slug": "openai-agent-security-brake",
+          "score": 94,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/html/01-openai-agent-security-brake-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/01-openai-agent-security-brake-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Strix单日1150星：AI安全Agent从演示走进攻防流水线",
+          "slug": "strix-ai-pentest-agent",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/html/02-strix-ai-pentest-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/02-strix-ai-pentest-agent-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "ai-memory冲上热榜：Agent开始争夺“记忆交接权”",
+          "slug": "ai-memory-cross-agent-handoff",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/html/03-ai-memory-cross-agent-handoff-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/03-ai-memory-cross-agent-handoff-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "omlx上榜：Apple Silicon本地推理开始拼缓存和体验",
+          "slug": "omlx-apple-silicon-llm-cache",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/html/04-omlx-apple-silicon-llm-cache-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/04-omlx-apple-silicon-llm-cache-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "Meta Muse Glimmer曝光：30B本地Agent模型盯上个人电脑",
+          "slug": "meta-muse-glimmer-local-agent",
+          "score": 82,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/html/05-meta-muse-glimmer-local-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-19/05-meta-muse-glimmer-local-agent-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-17",
       "month": "2026-08",
