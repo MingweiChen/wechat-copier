@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-23T15:44:32Z",
+  "generated": "2026-08-24T01:09:54Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 43,
+  "dayCount": 44,
   "days": [
+    {
+      "date": "2026-08-24",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI前沿模型零数据保留：企业AI真正的门票变成隐私架构",
+          "slug": "openai-zdr-frontier-privacy",
+          "score": 94,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/01-openai-zdr-frontier-privacy-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/01-openai-zdr-frontier-privacy-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Claude浏览器使用开放：AI开始点网页，产品胜负落到权限边界",
+          "slug": "claude-browser-use-permission",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/02-claude-browser-use-permission-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/02-claude-browser-use-permission-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Meta AI登陆Mac：桌面入口战从聊天框打到窗口和键盘",
+          "slug": "meta-ai-mac-desktop-entry",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/03-meta-ai-mac-desktop-entry-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/03-meta-ai-mac-desktop-entry-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "OmniRoute冲上热榜：一个端点接1200个模型，AI应用开始需要调度层",
+          "slug": "omniroute-llm-gateway-layer",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/04-omniroute-llm-gateway-layer-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/04-omniroute-llm-gateway-layer-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "Agent融资8月单笔翻倍：资本先给控制层单独定价",
+          "slug": "agent-funding-governance-layer",
+          "score": 84,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/05-agent-funding-governance-layer-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/05-agent-funding-governance-layer-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-19",
       "month": "2026-08",
