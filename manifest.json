@@ -1,5 +1,5 @@
 {
-  "generated": "2026-08-24T01:09:54Z",
+  "generated": "2026-08-24T01:16:41Z",
   "repo": "MingweiChen/wechat-articles",
   "dayCount": 44,
   "days": [
@@ -26,27 +26,27 @@
         },
         {
           "rank": "03",
-          "title": "Meta AI登陆Mac：桌面入口战从聊天框打到窗口和键盘",
-          "slug": "meta-ai-mac-desktop-entry",
+          "title": "Apache Maka热榜：Agent工作台开始把权限决策写进不可篡改日志",
+          "slug": "apache-maka-agent-audit-log",
           "score": 88,
-          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/03-meta-ai-mac-desktop-entry-wechat.html",
-          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/03-meta-ai-mac-desktop-entry-cover-wide.jpg"
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/03-apache-maka-agent-audit-log-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/03-apache-maka-agent-audit-log-cover-wide.jpg"
         },
         {
           "rank": "04",
-          "title": "OmniRoute冲上热榜：一个端点接1200个模型，AI应用开始需要调度层",
-          "slug": "omniroute-llm-gateway-layer",
+          "title": "ChatGPT for Teens上线：青少年AI安全开始从提示语变成独立产品",
+          "slug": "chatgpt-for-teens-safety-product",
           "score": 86,
-          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/04-omniroute-llm-gateway-layer-wechat.html",
-          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/04-omniroute-llm-gateway-layer-cover-wide.jpg"
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/04-chatgpt-for-teens-safety-product-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/04-chatgpt-for-teens-safety-product-cover-wide.jpg"
         },
         {
           "rank": "05",
-          "title": "Agent融资8月单笔翻倍：资本先给控制层单独定价",
-          "slug": "agent-funding-governance-layer",
+          "title": "MoneyPrinterTurbo热榜：AI短视频从单点生成进入自动流水线",
+          "slug": "moneyprinterturbo-ai-video-pipeline",
           "score": 84,
-          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/05-agent-funding-governance-layer-wechat.html",
-          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/05-agent-funding-governance-layer-cover-wide.jpg"
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/html/05-moneyprinterturbo-ai-video-pipeline-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-24/05-moneyprinterturbo-ai-video-pipeline-cover-wide.jpg"
         }
       ]
     },
