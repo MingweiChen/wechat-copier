@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-25T16:06:50Z",
+  "generated": "2026-08-26T01:05:05Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 44,
+  "dayCount": 45,
   "days": [
+    {
+      "date": "2026-08-26",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI沙箱事件被调查：Agent安全从技术问题变上市门槛",
+          "slug": "openai-sandbox-probe-agent-audit",
+          "score": 94,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/html/01-openai-sandbox-probe-agent-audit-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/01-openai-sandbox-probe-agent-audit-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Apple M6/M5 Ultra上桌面：本地AI算力开始抢回隐私和延迟",
+          "slug": "apple-m6-local-ai-desktop",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/html/02-apple-m6-local-ai-desktop-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/02-apple-m6-local-ai-desktop-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Google AI Overviews 25亿月活：搜索入口被AI重新计价",
+          "slug": "google-ai-overviews-search-layer",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/html/03-google-ai-overviews-search-layer-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/03-google-ai-overviews-search-layer-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "DeepSeek Harness冲上GitHub：Agent生态进入万物皆插件阶段",
+          "slug": "deepseek-harness-plugin-os",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/html/04-deepseek-harness-plugin-os-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/04-deepseek-harness-plugin-os-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "AWS物理AI栈：机器人从演示走向部署，难点变成闭环工程",
+          "slug": "aws-physical-ai-deployment-loop",
+          "score": 85,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/html/05-aws-physical-ai-deployment-loop-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-26/05-aws-physical-ai-deployment-loop-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-24",
       "month": "2026-08",
