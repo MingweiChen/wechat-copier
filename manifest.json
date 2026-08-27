@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-26T16:35:27Z",
+  "generated": "2026-08-27T01:05:31Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 45,
+  "dayCount": 46,
   "days": [
+    {
+      "date": "2026-08-27",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Salesforce扩大Anthropic合作：Claudeforce把企业AI从插件推到业务层",
+          "slug": "salesforce-claudeforce-enterprise-agent",
+          "score": 94,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/html/01-salesforce-claudeforce-enterprise-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/01-salesforce-claudeforce-enterprise-agent-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "OpenAI下调GPT-5.6 Sol价格：AI竞争开始从能力榜打到成本曲线",
+          "slug": "openai-price-cut-token-economics",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/html/02-openai-price-cut-token-economics-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/02-openai-price-cut-token-economics-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Anthropic 450亿美元租算力：AI公司护城河越来越像电力和机房",
+          "slug": "anthropic-nscale-compute-rent",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/html/03-anthropic-nscale-compute-rent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/03-anthropic-nscale-compute-rent-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Stripe收购OpenRouter传闻：模型路由开始和支付层合流",
+          "slug": "stripe-openrouter-model-routing",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/html/04-stripe-openrouter-model-routing-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/04-stripe-openrouter-model-routing-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "GitHub热榜被Agent Skills刷屏：AI开发开始从提示词走向可验证交付",
+          "slug": "github-archify-claude-plugins",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/html/05-github-archify-claude-plugins-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-27/05-github-archify-claude-plugins-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-26",
       "month": "2026-08",
