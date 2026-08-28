@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-28T00:28:44Z",
+  "generated": "2026-08-28T01:08:36Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 46,
+  "dayCount": 47,
   "days": [
+    {
+      "date": "2026-08-28",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI公开沙箱事故：AI安全从防人，变成防会协作的Agent",
+          "slug": "openai-huggingface-agent-sandbox",
+          "score": 95,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/html/01-openai-huggingface-agent-sandbox-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/01-openai-huggingface-agent-sandbox-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Gemini 3.5 Transcribe发布：语音输入，不只是听写了",
+          "slug": "google-gemini-transcribe-voice-entry",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/html/02-google-gemini-transcribe-voice-entry-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/02-google-gemini-transcribe-voice-entry-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Marin公开训练535B MoE：开源AI的下一步，是把过程也打开",
+          "slug": "marin-open-535b-moe-training",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/html/03-marin-open-535b-moe-training-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/03-marin-open-535b-moe-training-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "OpenMontage冲上热榜：AI视频不再只拼Prompt，而是拼流水线",
+          "slug": "openmontage-agentic-video-pipeline",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/html/04-openmontage-agentic-video-pipeline-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/04-openmontage-agentic-video-pipeline-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "OpenAI、Anthropic冲向IPO：AI神话要接受成本审计了",
+          "slug": "ai-ipo-market-cost-audit",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/html/05-ai-ipo-market-cost-audit-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-28/05-ai-ipo-market-cost-audit-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-27",
       "month": "2026-08",
