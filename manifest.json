@@ -1,8 +1,55 @@
 {
-  "generated": "2026-08-29T00:02:59Z",
+  "generated": "2026-08-29T01:07:57Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 47,
+  "dayCount": 48,
   "days": [
+    {
+      "date": "2026-08-29",
+      "month": "2026-08",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Anthropic官方Claude插件目录：AI编程开始从模型战打到生态战",
+          "slug": "claude-plugin-directory-ecosystem",
+          "score": 95,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/html/01-claude-plugin-directory-ecosystem-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/01-claude-plugin-directory-ecosystem-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "K-Dense科学Agent技能库爆火：AI科学家不是一个模型，而是一箱可验证工具",
+          "slug": "scientific-agent-skills-ai-scientist",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/html/02-scientific-agent-skills-ai-scientist-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/02-scientific-agent-skills-ai-scientist-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "Archify登顶GitHub趋势：AI文档终于从“会画图”走向“可验证”",
+          "slug": "archify-verifiable-diagram-agent",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/html/03-archify-verifiable-diagram-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/03-archify-verifiable-diagram-agent-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Keenable拿下2600万美元：AI Agent需要的不是搜索框，而是可引用的信息地基",
+          "slug": "keenable-agent-search-infrastructure",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/html/04-keenable-agent-search-infrastructure-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/04-keenable-agent-search-infrastructure-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "ChipAgents融资扩至1.34亿美元：芯片设计Agent正在进入EDA最硬的流程",
+          "slug": "chipagents-semiconductor-agentic-eda",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/html/05-chipagents-semiconductor-agentic-eda-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-08/2026-08-29/05-chipagents-semiconductor-agentic-eda-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-28",
       "month": "2026-08",
