@@ -1,8 +1,55 @@
 {
-  "generated": "2026-09-01T18:40:47Z",
+  "generated": "2026-09-02T01:07:22Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 48,
+  "dayCount": 49,
   "days": [
+    {
+      "date": "2026-09-02",
+      "month": "2026-09",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI Astra要来了：前沿模型开始先过安全闸门再发布",
+          "slug": "openai-astra-safety-gate",
+          "score": 94,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/html/01-openai-astra-safety-gate-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/01-openai-astra-safety-gate-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "OpenClaude冲上GitHub：AI编程入口正在从单模型走向多后端CLI",
+          "slug": "openclaude-multi-model-cli",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/html/02-openclaude-multi-model-cli-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/02-openclaude-multi-model-cli-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "academic-research-skills爆火：AI学术流水线开始反内卷",
+          "slug": "academic-research-skills-integrity",
+          "score": 89,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/html/03-academic-research-skills-integrity-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/03-academic-research-skills-integrity-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Google Gemini行业版：企业AI从通用助手进入权限与数据血管",
+          "slug": "google-gemini-enterprise-plumbing",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/html/04-google-gemini-enterprise-plumbing-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/04-google-gemini-enterprise-plumbing-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "Natural拿下1亿美元授信：Agent付款不是API问题，而是金融基础设施问题",
+          "slug": "natural-agent-payments-credit",
+          "score": 86,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/html/05-natural-agent-payments-credit-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-02/05-natural-agent-payments-credit-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-08-29",
       "month": "2026-08",
