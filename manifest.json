@@ -1,8 +1,55 @@
 {
-  "generated": "2026-09-05T17:25:38Z",
+  "generated": "2026-09-06T01:07:02Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 50,
+  "dayCount": 51,
   "days": [
+    {
+      "date": "2026-09-06",
+      "month": "2026-09",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "OpenAI没说透的细节：长Agent的成本结构被改写了！",
+          "slug": "astra-api-agent-cost",
+          "score": 93,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/html/01-astra-api-agent-cost-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/01-astra-api-agent-cost-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "英伟达PAIR来了：你的闲置电脑，要被AI Agent征用了！",
+          "slug": "nvidia-pair-local-ai-router",
+          "score": 91,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/html/02-nvidia-pair-local-ai-router-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/02-nvidia-pair-local-ai-router-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "AI Agent也要装防火墙了：5000万美元押注一个新入口！",
+          "slug": "air-agent-firewall",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/html/03-air-agent-firewall-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/03-air-agent-firewall-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Google把AI作曲塞进Gemini：音乐生成要从玩具变入口了！",
+          "slug": "google-lyria-35-gemini-music",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/html/04-google-lyria-35-gemini-music-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/04-google-lyria-35-gemini-music-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "Meta新模型盯上代码Agent：个人AI战争先从“少调用工具”打起！",
+          "slug": "meta-muse-spark-agent-code",
+          "score": 87,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/html/05-meta-muse-spark-agent-code-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-06/05-meta-muse-spark-agent-code-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-09-03",
       "month": "2026-09",
