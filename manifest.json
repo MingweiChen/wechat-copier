@@ -1,8 +1,55 @@
 {
-  "generated": "2026-09-10T01:04:22Z",
+  "generated": "2026-09-10T01:07:12Z",
   "repo": "MingweiChen/wechat-articles",
-  "dayCount": 51,
+  "dayCount": 52,
   "days": [
+    {
+      "date": "2026-09-10",
+      "month": "2026-09",
+      "count": 5,
+      "articles": [
+        {
+          "rank": "01",
+          "title": "Cognition融了20亿美元：AI程序员估值冲到480亿美元！",
+          "slug": "cognition-devin-48b-coding-agent",
+          "score": 95,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/01-cognition-devin-48b-coding-agent-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/01-cognition-devin-48b-coding-agent-cover-wide.jpg"
+        },
+        {
+          "rank": "02",
+          "title": "Mistral融了30亿欧元：欧洲AI开始自己修数据中心！",
+          "slug": "mistral-3b-euro-sovereign-ai",
+          "score": 93,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/02-mistral-3b-euro-sovereign-ai-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/02-mistral-3b-euro-sovereign-ai-cover-wide.jpg"
+        },
+        {
+          "rank": "03",
+          "title": "小鹏IRON走下自动产线：人形机器人不再只会发布会走路！",
+          "slug": "xpeng-iron-humanoid-production-line",
+          "score": 92,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/03-xpeng-iron-humanoid-production-line-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/03-xpeng-iron-humanoid-production-line-cover-wide.jpg"
+        },
+        {
+          "rank": "04",
+          "title": "Clay融到71亿美元估值：销售团队开始被AI Agent重写！",
+          "slug": "clay-ai-sales-agent-system",
+          "score": 90,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/04-clay-ai-sales-agent-system-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/04-clay-ai-sales-agent-system-cover-wide.jpg"
+        },
+        {
+          "rank": "05",
+          "title": "高通联手AWS做AI数据中心芯片：推理成本战打到硬件层了！",
+          "slug": "qualcomm-aws-ai-datacenter-chip",
+          "score": 88,
+          "rawUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/05-qualcomm-aws-ai-datacenter-chip-wechat.html",
+          "coverUrl": "https://raw.githubusercontent.com/MingweiChen/wechat-articles/main/2026-09/2026-09-10/05-qualcomm-aws-ai-datacenter-chip-cover-wide.jpg"
+        }
+      ]
+    },
     {
       "date": "2026-09-06",
       "month": "2026-09",
